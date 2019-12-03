@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CJVL53L0XV2
+D Cheap PCB housing a VL53L0X Sensor and driver components
+K VL53L0X
+$ENDCMP
+#
+$CMP CJVL53L0XV2_NoMountingHoles
+D Cheap PCB housing a VL53L0X Sensor and driver components
+K VL53L0X
+$ENDCMP
+#
+#End Doc Library
